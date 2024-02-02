@@ -1,0 +1,28 @@
+input
+{
+	width: 200px;
+	font-size: 22px;
+	margin-right: 40px;
+  margin-top: 10px;
+}
+.button
+{
+	align-items: center;
+	background-color: #584141;
+	border-radius: 50px;
+	color: white;
+	padding: 8px;
+  font-size: 18px;
+}
+.btn
+{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+p
+{
+  font-size: 20px;
+  padding-left: 20px;
+  text-transform: uppercase;
+  color: rgb(221, 114, 114);
+}
